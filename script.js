@@ -1,5 +1,5 @@
 // Set your target email here (No API key required!)
-const TARGET_EMAIL = "prateekjayaram123@gmail.com";
+const TARGET_EMAIL = "infofriendzeventz@gmail.com";
 
 const pastEvents = [
   {
